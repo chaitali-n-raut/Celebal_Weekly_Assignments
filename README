@@ -1,0 +1,41 @@
+# Week 1 — ML Foundations Assignment
+
+This repository contains my Week 1 assignment completed during the Data Science Internship at Celebal Technologies.
+
+## Topics Covered
+- Python Fundamentals
+- NumPy
+- Pandas
+- Linear Algebra
+- Statistics
+- Probability Theory
+
+## Concepts Implemented
+- Data Types and Control Flow
+- Functions and Exception Handling
+- Array Operations and Matrix Computations
+- Data Analysis using Pandas
+- Eigenvalues, Eigenvectors and SVD
+- Descriptive and Inferential Statistics
+- Hypothesis Testing
+- Error Metrics
+- Distribution and Stationarity Testing
+- Population Stability Index (PSI)
+- Probability and Bayes' Theorem
+- Central Limit Theorem (CLT)
+
+## Files
+- `week1_<your_name>.ipynb` → Completed Jupyter/Colab Notebook
+
+## Tools Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Statsmodels
+- Google Colab
+
+## Author
+<your_name>  
+Data Science Intern — Celebal Technologies
